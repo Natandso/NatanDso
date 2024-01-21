@@ -6,7 +6,7 @@
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fatos sobre mim: sou muito viajado, e penso em tudo ao mesmo tempo. Sou geralmente o  palhaço do grupo. Andei de skate quase a minha vida inteira.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natandso&show_icons=true&theme=cobalt)<div style="display: inline_block"><br> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natandso&show_icons=true&theme=cobalt)<div style="display: inline_block"> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
