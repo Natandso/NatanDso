@@ -7,8 +7,8 @@
 - ⚡ Fatos sobre mim: sou muito viajado, e penso em tudo ao mesmo tempo. Sou geralmente o  palhaço do grupo. Andei de skate quase a minha vida inteira.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natandso&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<div style="display: inline_block"> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natandso&show_icons=true&theme=cobalt) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)<div style="display: inline_block"> 
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nata-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
