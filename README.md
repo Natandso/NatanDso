@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natandso&show_icons=true&theme=cobalt) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natandso&layout=compact&show_icons=true&theme=cobalt)
-<img align="center" alt="Trigun-hey" width="200" height="100" src="https://media.giphy.com/media/1IynFUeOif20g/giphy.gif">
+<img align="center" alt="Trigun-hey" width="200" height="200" src="https://media.giphy.com/media/1IynFUeOif20g/giphy.gif">
 
 <div style="display: inline_block"> 
 
