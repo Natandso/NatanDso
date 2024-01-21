@@ -7,5 +7,4 @@
 - ⚡ Fatos sobre mim: sou muito viajado, e penso em tudo ao mesmo tempo. Sou geralmente o  palhaço do grupo. Andei de skate quase a minha vida inteira.
 
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natandso)](https://github.com/Natandso/github-readme-stats)
