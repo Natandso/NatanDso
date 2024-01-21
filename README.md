@@ -19,7 +19,7 @@
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Natan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Trigun-hey" width="200" height="200" src="https://media.giphy.com/media/1IynFUeOif20g/giphy.gif">
+  <img align="right" alt="Trigun-hey" width="200" height="200" src="https://media.giphy.com/media/1IynFUeOif20g/giphy.gif">
 
 </div>
 <br/>
