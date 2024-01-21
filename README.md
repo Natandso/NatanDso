@@ -10,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natandso&show_icons=true&theme=cobalt) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natandso&layout=compact&show_icons=true&theme=cobalt)<div style="display: inline_block"> 
 
- <img align="center" alt="Trigun-hey" height="50" width="80" src="https://media.giphy.com/media/1IynFUeOif20g/giphy.gif">
+ <img align="right" alt="Trigun-hey" src="https://media.giphy.com/media/1IynFUeOif20g/giphy.gif">
 
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
