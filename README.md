@@ -4,7 +4,7 @@
 - 💭 Quero me tornar um desenvolvedor Senior e trabalhar para o exterior um dia.
 - 💬 Amo conversar e falar besteiras então, seja livre para me conhecer.
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fatos sobre mim: sou muito viajado, e penso em tudo ao mesmo tempo. Sou geralmente o  palhaço do grupo. Andei de skate quase a minha vida inteira.
+- ⚡ Fatos sobre mim: Amo Tecnologia, ganhei meu primeiro computador quando tinha 8  anos e nunca mais parei de usar. sou muito viajado, e penso em tudo ao mesmo tempo. Sou geralmente o  palhaço do grupo. Andei de skate quase a minha vida inteira.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natandso&show_icons=true&theme=cobalt) 
